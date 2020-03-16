@@ -1,0 +1,63 @@
+C:\Users\Burak\Desktop\AracTakipSistemi\AracTakipSistemi\obj\Debug\AracTakipSistemi.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\AracTakipSistemi\AracTakipSistemi\obj\Debug\AracTakipSistemi.Form1.resources
+C:\Users\Burak\Desktop\AracTakipSistemi\AracTakipSistemi\obj\Debug\AracTakipSistemi.Properties.Resources.resources
+C:\Users\Burak\Desktop\AracTakipSistemi\AracTakipSistemi\obj\Debug\AracTakipSistemi.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\AracTakipSistemi\AracTakipSistemi\obj\Debug\AracTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\AracTakipSistemi\AracTakipSistemi\bin\Debug\AracTakipSistemi.exe.config
+C:\Users\Burak\Desktop\AracTakipSistemi\AracTakipSistemi\bin\Debug\AracTakipSistemi.exe
+C:\Users\Burak\Desktop\AracTakipSistemi\AracTakipSistemi\bin\Debug\AracTakipSistemi.pdb
+C:\Users\Burak\Desktop\AracTakipSistemi\AracTakipSistemi\obj\Debug\AracTakipSistemi.exe
+C:\Users\Burak\Desktop\AracTakipSistemi\AracTakipSistemi\obj\Debug\AracTakipSistemi.pdb
+C:\Users\Burak\Desktop\AracTakipSistemi\AracTakipSistemi\obj\Debug\AracTakipSistemi.iletisim.resources
+C:\Users\Burak\Desktop\AracTakipSistemi\AracTakipSistemi\obj\Debug\AracTakipSistemi.main.resources
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\bin\Debug\AracTakipSistemi.exe.config
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\bin\Debug\AracTakipSistemi.exe
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\bin\Debug\AracTakipSistemi.pdb
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.Form1.resources
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.iletisim.resources
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.main.resources
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.Properties.Resources.resources
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.exe
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.pdb
+C:\Users\Burak\Desktop\AracTakipSistemiV1 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.raporcs.resources
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\bin\Debug\AracTakipSistemi.exe.config
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\bin\Debug\AracTakipSistemi.exe
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\bin\Debug\AracTakipSistemi.pdb
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.Form1.resources
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.iletisim.resources
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.main.resources
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.Properties.Resources.resources
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.raporcs.resources
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.exe
+C:\Users\Burak\Desktop\AracTakipSistemiV1.2 YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.pdb
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\bin\Debug\AracTakipSistemi.exe.config
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\bin\Debug\AracTakipSistemi.exe
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\bin\Debug\AracTakipSistemi.pdb
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.csprojAssemblyReference.cache
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.Form1.resources
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.iletisim.resources
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.main.resources
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.Properties.Resources.resources
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.raporcs.resources
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.csproj.GenerateResource.cache
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.exe
+C:\Dosyalarım\AracTakipSistemi v2.5\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.pdb
+C:\Users\bgumu\Desktop\AracTakipSistemi SON YEDEK\AracTakipSistemi\bin\Debug\AracTakipSistemi.exe.config
+C:\Users\bgumu\Desktop\AracTakipSistemi SON YEDEK\AracTakipSistemi\bin\Debug\AracTakipSistemi.exe
+C:\Users\bgumu\Desktop\AracTakipSistemi SON YEDEK\AracTakipSistemi\bin\Debug\AracTakipSistemi.pdb
+C:\Users\bgumu\Desktop\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.csprojAssemblyReference.cache
+C:\Users\bgumu\Desktop\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.Form1.resources
+C:\Users\bgumu\Desktop\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.iletisim.resources
+C:\Users\bgumu\Desktop\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.main.resources
+C:\Users\bgumu\Desktop\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.Properties.Resources.resources
+C:\Users\bgumu\Desktop\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.raporcs.resources
+C:\Users\bgumu\Desktop\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.csproj.GenerateResource.cache
+C:\Users\bgumu\Desktop\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.exe
+C:\Users\bgumu\Desktop\AracTakipSistemi SON YEDEK\AracTakipSistemi\obj\Debug\AracTakipSistemi.pdb
